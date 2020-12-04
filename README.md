@@ -31,3 +31,8 @@ Use Python 3.8 to execute main.py and the game will run.
 
 - Written by: [Caleb Werth](https://github.com/chwerth/) and [Russell Spry](https://github.com/Rw552)
 - Idea by: Aaron Werth
+
+## Class project
+
+- Teacher: Stephen
+- Students: 
