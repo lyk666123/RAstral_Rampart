@@ -34,5 +34,7 @@ Use Python 3.8 to execute main.py and the game will run.
 
 ## Class project
 
-- Teacher: Stephen
-- Students: 
+Teacher: Stephen
+
+Students: 
+- 
