@@ -40,3 +40,4 @@ Students:
 - alex a6
 - sarah
 - tony
+- Jack
